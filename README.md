@@ -4,7 +4,7 @@
 
 En este repositorio se encuentra una recopilación de los programas elaborados durante el semestre de Programación y Métodos Numéricos, se abordan temas tales como:
 * Introducción al entorno y variables de programación en lenguaje C.
- -Práctica 1
+  - Práctica 1
 * Estructuras de control condicionales simples y múltiples.
 * Estructuras repetitivas.
 * Integración numérica por los métodos del trapecio y de Simpson.
