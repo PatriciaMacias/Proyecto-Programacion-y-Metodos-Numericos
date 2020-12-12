@@ -1,9 +1,10 @@
 # Universidad Autónoma de Baja California
 ## Proyecto Programacion y Métodos Numéricos
-### Elaborado por María Patricia Macías Carrisales
+#### Elaborado por María Patricia Macías Carrisales
 
 En este repositorio se encuentra una recopilación de los programas elaborados durante el semestre de Programación y Métodos Numéricos, se abordan temas tales como:
 * Introducción al entorno y variables de programación en lenguaje C.
+ -Práctica 1
 * Estructuras de control condicionales simples y múltiples.
 * Estructuras repetitivas.
 * Integración numérica por los métodos del trapecio y de Simpson.
