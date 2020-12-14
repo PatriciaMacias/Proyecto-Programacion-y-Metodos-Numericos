@@ -9,7 +9,7 @@ En este repositorio se encuentra una recopilación de los programas elaborados d
   - Práctica 2
 * Estructuras repetitivas.
   - Práctica 3
-* Integración numérica por los métodos del trapecio y de Simpson.
+* Funciones, arreglos y matrices.
   - Práctica 4
 * Métodos cerrados: de la bisección y de la falsa posición.
   - Práctica 5
