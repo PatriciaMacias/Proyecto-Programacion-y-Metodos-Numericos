@@ -2,7 +2,7 @@
 ## Proyecto Programación y Métodos Numéricos
 #### Elaborado por ***María Patricia Macías Carrisales*** del grupo ***021***
 
-En este repositorio se encuentra una recopilación de los programas elaborados durante el semestre de Programación y Métodos Numéricos, se abordan temas tales como:
+En este repositorio se encuentra una recopilación de los programas elaborados durante el semestre (Septiembre-Diciembre) de Programación y Métodos Numéricos 2020, se abordan temas tales como:
 * Introducción al entorno y variables de programación en lenguaje C.
   - [Práctica 1](https://github.com/PatriciaMacias/Proyecto-Programacion-y-Metodos-Numericos/tree/main/Pr%C3%A1ctica%201)
 * Estructuras de control condicionales simples y múltiples.
