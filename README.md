@@ -18,4 +18,4 @@ En este repositorio se encuentra una recopilación de los programas elaborados d
 * Derivación numérica.
   - [Práctica 10](https://github.com/PatriciaMacias/Proyecto-Programacion-y-Metodos-Numericos/blob/main/Pr%C3%A1ctica%2010/Pr%C3%A1ctica10_MAC%C3%8DAS.c)
 * Métodos de ecuaciones lineales.
-  - [Práctica 11](https://github.com/PatriciaMacias/Proyecto-Programacion-y-Metodos-Numericos/commit/692555d355a5bbf7135b8f72db231820a2d01db8)
+  - [Práctica 11]
